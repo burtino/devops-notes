@@ -27,5 +27,12 @@ https://github.com/pvdlg/env-ci
 ### Ec2 Instances
 https://ec2instances.info/
 
-### Ubuntu Ec2 AMIs
-https://cloud-images.ubuntu.com/locator/ec2/
+### AMIs
+
+### AMI Quick Links
+
+|  Name  | Link                                                                 |
+| :----: | -------------------------------------------------------------------- |
+| Ubuntu | [Ubuntu Image Locator](https://cloud-images.ubuntu.com/locator/ec2/) |
+| CentOS | [CentOS Docs: AWS Images](https://wiki.centos.org/Cloud/AWS)         |
+
