@@ -20,7 +20,8 @@ https://github.com/pvdlg/env-ci
 
 ## AWS
 
-### Ec2 Images
+### Ec2 Instances
+https://ec2instances.info/
 
-#### Ubuntu
+### Ubuntu Ec2 AMIs
 https://cloud-images.ubuntu.com/locator/ec2/
