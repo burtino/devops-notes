@@ -1,5 +1,10 @@
 # devops-notes
 
+# Setting Up Your Mac
+
+* Configuring your bash shell
+  * [Install latest bash on Mac](https://www.ioannispoulakas.com/2019/03/10/how-to-install-bash-5-on-macos/)
+
 # Containers
 
 [Distroless](https://github.com/GoogleContainerTools/distroless)
