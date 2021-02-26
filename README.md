@@ -13,10 +13,12 @@ My advice here is to automate everything you can about code review (format, synt
 
 Here are some other tips that have worked in my experience:
 
-* The team should create the team's code review process and make it part of a published team member agreement. Don't create rules for them. Let the team put the rules together, own them, and regularly review them (hint: retro) and put their fingerprints on it. As new scenarios and disagreements arise during the code review process, the team should be encrouraged to review and update the rules as needed even outside the retro or scheduled reflection point.
+* The team should create the team's code review process and make it part of a published team member agreement. 
+* Don't create rules for them. Let the team put the rules together, own them, and regularly review them (hint: retro) and put their fingerprints on it. 
+* As new scenarios and disagreements arise during the code review process, the team should be encrouraged to review and update the rules as needed even outside the retro schedule.
 * https://www.michaelagreiler.com/ has done a lot of research on this topic.
-* https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c
-
+  * [YOUTUBE: 10 tips for productive code review](https://www.youtube.com/watch?v=NNXk_WJzyMI)
+* Something that teams seemed to like was practical tips like in this format of [helpful and unhelpful code review behaviors](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 
 # Containers
 
