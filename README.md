@@ -2,8 +2,15 @@
 
 # Setting Up Your Mac
 
-* Configuring your bash shell
-  * [Install latest bash on Mac](https://www.ioannispoulakas.com/2019/03/10/how-to-install-bash-5-on-macos/)
+## Configuring your shell and Terminal
+
+These section is just my personal preference.
+
+  * **Install Bash:** Mac doesn't ship with the latest version of bash you find in containers and cloud servers. In fact, the default shell is now zsh on Mac. You can easily [Install latest bash on Mac](https://www.ioannispoulakas.com/2019/03/10/how-to-install-bash-5-on-macos/)
+    * On the latest version of bash you'll want to also use the latest `bash-completion@2` in homebrew.
+  * Customize your shell prompt. 
+    * [Starship](https://starship.rs/) minimal, blazing-fast, and infinitely customizable prompt for any shell!
+  * [iterm2](https://iterm2.com/) The terminal you wish Mac shipped with.
 
 # Development Process
 
