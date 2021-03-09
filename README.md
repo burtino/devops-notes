@@ -4,7 +4,7 @@
 
 ## Configuring your shell and Terminal
 
-These section is just my personal preference.
+This section is just my personal preference. I used to use ZSH. Do what you like. Here is how to use latest bash on Mac.
 
   * **Install Bash:** Mac doesn't ship with the latest version of bash you find in containers and cloud servers. In fact, the default shell is now zsh on Mac. You can easily [Install latest bash on Mac](https://www.ioannispoulakas.com/2019/03/10/how-to-install-bash-5-on-macos/)
     * On the latest version of bash you'll want to also use the latest `bash-completion@2` in homebrew.
