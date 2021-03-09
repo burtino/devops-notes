@@ -63,3 +63,10 @@ https://ec2instances.info/
 | Ubuntu | [Ubuntu Image Locator](https://cloud-images.ubuntu.com/locator/ec2/) |
 | CentOS | [CentOS Docs: AWS Images](https://wiki.centos.org/Cloud/AWS)         |
 
+# Automating Operations
+
+Work Management
+
+* [NextUp.ai](https://www.nextup.ai)
+
+
