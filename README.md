@@ -69,4 +69,8 @@ Work Management
 
 * [NextUp.ai](https://www.nextup.ai)
 
+## IaC Tools
 
+* [tf-parliament](https://hub.docker.com/r/rdkls/tf-parliament)
+* [iam-lint](https://github.com/xen0l/iam-lint)
+* [iamlive](https://github.com/iann0036/iamlive)
